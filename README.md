@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FriendlyEats (Web)
 
 ## Introduction
@@ -27,7 +26,5 @@ Follow the [Cloud Firestore Web Codelab][codelab] to set up this sample.
 [codelab]: https://codelabs.developers.google.com/codelabs/firestore-web
 [quickstart]: https://github.com/firebase/quickstart-js/tree/master/firestore
 [firestore-docs]: https://firebase.google.com/docs/firestore/
-=======
 # firebase_handson
 https://codelabs.developers.google.com/codelabs/firestore-web/index.html
->>>>>>> ad64581ab05efc16f667d7c041f066dde89bbb22
